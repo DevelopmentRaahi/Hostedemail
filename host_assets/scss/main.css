@@ -28,6 +28,7 @@ html {
 
 body {
   font-family: "Roboto Condensed", sans-serif;
+  font-size: inherit;
 }
 
 body {
@@ -322,6 +323,9 @@ body {
   font-size: 1.5rem;
   text-align: center;
   color: rgb(64, 58, 85);
+}
+.price_head .p_text_small > p {
+  font-size: 1.2rem;
 }
 .price_head h4 {
   text-align: center;
